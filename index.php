@@ -3,10 +3,10 @@
  <title>Системное время</title>
  <style type="text/css">
 
-.Milliseconds{
-background: #<? echo $_GET["color"]; ?>;
-font-size: 300px;
-}
+	.Milliseconds{
+		background: #<? echo $_GET["color"]; ?>;
+		font-size: 300px;
+	}
 
  </style>
 
