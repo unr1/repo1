@@ -4,7 +4,8 @@
  <style type="text/css">
 
 .Milliseconds{
- font-size: 300px;
+background: #<? echo $_GET["color"]; ?>;
+font-size: 300px;
 }
 
  </style>
